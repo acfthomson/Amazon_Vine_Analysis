@@ -1,3 +1,13 @@
+# Challenge Code
+Challenge_Code
+Amazon_Reviews_ETL_starter_code.ipynb
+challenge_schema.sql
+
+# Data set
+amazon_reviews_us_Lawn_and_Garden_v1_00.tsv
+amazon_reviews_us_Lawn_and_Garden_v1_00.tsv.gz
+Data_Set
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
